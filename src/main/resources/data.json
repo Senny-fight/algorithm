@@ -1,0 +1,49 @@
+{
+
+"sysHead": {
+  "servcCd": "30820001",
+  "sceneCd": "05",
+  "serveVerNo": "100",
+  "tranSrINo": "2024890200992243",
+  "globalSr1No": "G0788002024090200143122999"
+},
+"appHead": {
+},
+"body": {
+  "payerC1rgAcctType": "H",
+  "phone": "18213210822",
+  "idCard": "160111199786172614",
+  "creditCard": "4724123456789012",
+  "debitCard": "6235123456789012345",
+  "mail_adress": "www.13399qq.com",
+  "adress": "上海市虹口区1号",
+  "name": "弥三",
+  "permitTraCard": "H1234567890"
+}
+}
+
+
+
+{
+
+  "sysHead": {
+    "servcCd": "30820001",
+    "sceneCd": "05",
+    "serveVerNo": "100",
+    "tranSrINo": "2024890200992243",
+    "globalSr1No": "G0788002024090200143122999"
+  },
+  "appHead": {
+  },
+  "body": {
+    "payerC1rgAcctType": "H",
+    "phone": "182****0822",
+    "idCard": "160****2614",
+    "creditCard": "4724123456789012",
+    "debitCard": "6235123456789012345",
+    "mail_adress": "www.***.com",
+    "adress": "上海市虹口区1号",
+    "name": "弥三",
+    "permitTraCard": "H1234567890"
+  }
+}
